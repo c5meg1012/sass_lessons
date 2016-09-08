@@ -1,0 +1,102 @@
+/* comment */
+/*
+comment
+comment
+*/
+#main {
+  width: 90%;
+  background: url("../img/bg.png");
+}
+#main p {
+  color: rgba(255, 153, 153, 0.9);
+  font-size: 14px;
+}
+#main p .sub {
+  font-size: 12px;
+}
+#main p a {
+  text-decoration: none;
+}
+#main p a:hover {
+  font-weight: bold;
+}
+
+#main02 {
+  color: red;
+}
+
+.fs10 {
+  font-size: 10px;
+}
+
+.fs11 {
+  font-size: 11px;
+}
+
+.fs12 {
+  font-size: 12px;
+}
+
+.fs13 {
+  font-size: 13px;
+}
+
+.fs14 {
+  font-size: 14px;
+}
+
+.fs10 {
+  font-size: 10px;
+}
+
+.fs11 {
+  font-size: 11px;
+}
+
+.fs12 {
+  font-size: 12px;
+}
+
+.fs13 {
+  font-size: 13px;
+}
+
+.fs14 {
+  font-size: 14px;
+}
+
+.cat-icon {
+  background: url("cat.png");
+}
+
+.dog-icon {
+  background: url("dog.png");
+}
+
+.tiger-icon {
+  background: url("tiger.png");
+}
+
+.cat-icon {
+  background: url("cat.png");
+}
+
+.dog-icon {
+  background: url("dog.png");
+}
+
+.tiger-icon {
+  background: url("tiger.png");
+}
+
+.grid {
+  float: left;
+  width: 85px;
+}
+
+.label {
+  font-size: 12px;
+  border-radius: 10px;
+}
+
+/*# sourceMappingURL=main__.css.map */
